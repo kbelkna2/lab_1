@@ -1,1 +1,1 @@
-# lab_1_practice
+# lab_1
